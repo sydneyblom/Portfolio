@@ -6282,11 +6282,11 @@ yx-axis
 }
 
 .pf-caption .valign-cell {
-    padding: 20px;
+    padding: 0px;
 }
 
 .pf-title {
-    font-size: 1.318em;
+    font-size: 1 em;
     color: inherit;
     margin-top: 0;
     -webkit-transform: translateY(-10px);
@@ -6299,8 +6299,8 @@ yx-axis
 
 .pf-text {
     opacity: 0.7;
-    font-size: 0.938em;
-    margin-bottom: 35px;
+    font-size: 0.538em;
+    margin-bottom: 5px;
 }
 
 .pf-btn {
